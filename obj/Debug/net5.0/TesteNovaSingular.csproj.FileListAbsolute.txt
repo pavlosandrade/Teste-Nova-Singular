@@ -1,0 +1,271 @@
+C:\Dev\Teste\TesteNovaSingular\bin\Debug\net5.0\appsettings.Development.json
+C:\Dev\Teste\TesteNovaSingular\bin\Debug\net5.0\appsettings.json
+C:\Dev\Teste\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.exe
+C:\Dev\Teste\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.deps.json
+C:\Dev\Teste\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.runtimeconfig.json
+C:\Dev\Teste\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.runtimeconfig.dev.json
+C:\Dev\Teste\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.dll
+C:\Dev\Teste\TesteNovaSingular\bin\Debug\net5.0\ref\TesteNovaSingular.dll
+C:\Dev\Teste\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.pdb
+C:\Dev\Teste\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.Views.dll
+C:\Dev\Teste\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.Views.pdb
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.AssemblyReference.cache
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.AssemblyInfoInputs.cache
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.AssemblyInfo.cs
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.CoreCompileInputs.cache
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorAssemblyInfo.cache
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorAssemblyInfo.cs
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\staticwebassets\TesteNovaSingular.StaticWebAssets.Manifest.cache
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\staticwebassets\TesteNovaSingular.StaticWebAssets.xml
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\scopedcss\bundle\TesteNovaSingular.styles.css
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.TagHelpers.input.cache
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.TagHelpers.output.cache
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorCoreGenerate.cache
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorTargetAssemblyInfo.cache
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorTargetAssemblyInfo.cs
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.Views.pdb
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.dll
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\ref\TesteNovaSingular.dll
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.pdb
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.genruntimeconfig.cache
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.CopyComplete
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Banner.cshtml.g.cs
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Sobre.cshtml.g.cs
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Galeria.cshtml.g.cs
+C:\Dev\Teste\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Noticias.cshtml.g.cs
+C:\NovaSingular\TesteNovaSingular\bin\Debug\net5.0\appsettings.Development.json
+C:\NovaSingular\TesteNovaSingular\bin\Debug\net5.0\appsettings.json
+C:\NovaSingular\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.exe
+C:\NovaSingular\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.deps.json
+C:\NovaSingular\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.runtimeconfig.json
+C:\NovaSingular\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.runtimeconfig.dev.json
+C:\NovaSingular\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.dll
+C:\NovaSingular\TesteNovaSingular\bin\Debug\net5.0\ref\TesteNovaSingular.dll
+C:\NovaSingular\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.pdb
+C:\NovaSingular\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.Views.dll
+C:\NovaSingular\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.Views.pdb
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.AssemblyReference.cache
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.GeneratedMSBuildEditorConfig.editorconfig
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.AssemblyInfoInputs.cache
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.AssemblyInfo.cs
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.CoreCompileInputs.cache
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.MvcApplicationPartsAssemblyInfo.cache
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorAssemblyInfo.cache
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorAssemblyInfo.cs
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\staticwebassets\TesteNovaSingular.StaticWebAssets.Manifest.cache
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\staticwebassets\TesteNovaSingular.StaticWebAssets.xml
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\scopedcss\bundle\TesteNovaSingular.styles.css
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.TagHelpers.input.cache
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.TagHelpers.output.cache
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorCoreGenerate.cache
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Banner.cshtml.g.cs
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Galeria.cshtml.g.cs
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Noticias.cshtml.g.cs
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Sobre.cshtml.g.cs
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorTargetAssemblyInfo.cache
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorTargetAssemblyInfo.cs
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.Views.pdb
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.dll
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\ref\TesteNovaSingular.dll
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.pdb
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.genruntimeconfig.cache
+C:\NovaSingular\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.CopyComplete
+C:\Dev\TesteNovaSingular\bin\Debug\net5.0\appsettings.Development.json
+C:\Dev\TesteNovaSingular\bin\Debug\net5.0\appsettings.json
+C:\Dev\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.exe
+C:\Dev\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.deps.json
+C:\Dev\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.runtimeconfig.json
+C:\Dev\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.runtimeconfig.dev.json
+C:\Dev\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.dll
+C:\Dev\TesteNovaSingular\bin\Debug\net5.0\ref\TesteNovaSingular.dll
+C:\Dev\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.pdb
+C:\Dev\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.Views.dll
+C:\Dev\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.Views.pdb
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.AssemblyReference.cache
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.AssemblyInfoInputs.cache
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.AssemblyInfo.cs
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.CoreCompileInputs.cache
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorAssemblyInfo.cache
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorAssemblyInfo.cs
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\staticwebassets\TesteNovaSingular.StaticWebAssets.Manifest.cache
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\staticwebassets\TesteNovaSingular.StaticWebAssets.xml
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\scopedcss\bundle\TesteNovaSingular.styles.css
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.TagHelpers.input.cache
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.TagHelpers.output.cache
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorCoreGenerate.cache
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Banner.cshtml.g.cs
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Galeria.cshtml.g.cs
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Noticias.cshtml.g.cs
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Sobre.cshtml.g.cs
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorTargetAssemblyInfo.cache
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorTargetAssemblyInfo.cs
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.Views.pdb
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.dll
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\ref\TesteNovaSingular.dll
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.pdb
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.genruntimeconfig.cache
+C:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.CopyComplete
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\appsettings.Development.json
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\appsettings.json
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.exe
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.deps.json
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.runtimeconfig.json
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.runtimeconfig.dev.json
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.dll
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\ref\TesteNovaSingular.dll
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.pdb
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.Views.dll
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.Views.pdb
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.AssemblyReference.cache
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.AssemblyInfoInputs.cache
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.AssemblyInfo.cs
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.CoreCompileInputs.cache
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.MvcApplicationPartsAssemblyInfo.cache
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorAssemblyInfo.cache
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorAssemblyInfo.cs
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\staticwebassets\TesteNovaSingular.StaticWebAssets.Manifest.cache
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\staticwebassets\TesteNovaSingular.StaticWebAssets.xml
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\scopedcss\bundle\TesteNovaSingular.styles.css
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.TagHelpers.input.cache
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.TagHelpers.output.cache
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorCoreGenerate.cache
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Banner.cshtml.g.cs
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Sobre.cshtml.g.cs
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorTargetAssemblyInfo.cache
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorTargetAssemblyInfo.cs
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.Views.pdb
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.dll
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\ref\TesteNovaSingular.dll
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.pdb
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.genruntimeconfig.cache
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.CopyComplete
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\appsettings.Development.json
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\appsettings.json
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.exe
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.deps.json
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.runtimeconfig.json
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.runtimeconfig.dev.json
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.dll
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\ref\TesteNovaSingular.dll
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.pdb
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.Views.dll
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.Views.pdb
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.AssemblyReference.cache
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.GeneratedMSBuildEditorConfig.editorconfig
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.AssemblyInfoInputs.cache
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.AssemblyInfo.cs
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.CoreCompileInputs.cache
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.MvcApplicationPartsAssemblyInfo.cache
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorAssemblyInfo.cache
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorAssemblyInfo.cs
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\staticwebassets\TesteNovaSingular.StaticWebAssets.Manifest.cache
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\staticwebassets\TesteNovaSingular.StaticWebAssets.xml
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\scopedcss\bundle\TesteNovaSingular.styles.css
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.TagHelpers.input.cache
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.TagHelpers.output.cache
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorCoreGenerate.cache
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Banner.cshtml.g.cs
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Galeria.cshtml.g.cs
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Noticias.cshtml.g.cs
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Sobre.cshtml.g.cs
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Header.cshtml.g.cs
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorTargetAssemblyInfo.cache
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorTargetAssemblyInfo.cs
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.Views.pdb
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.dll
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\ref\TesteNovaSingular.dll
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.pdb
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.genruntimeconfig.cache
+F:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.CopyComplete
+D:\Dev\TesteNovaSingular\bin\Debug\net5.0\appsettings.Development.json
+D:\Dev\TesteNovaSingular\bin\Debug\net5.0\appsettings.json
+D:\Dev\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.exe
+D:\Dev\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.deps.json
+D:\Dev\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.runtimeconfig.json
+D:\Dev\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.runtimeconfig.dev.json
+D:\Dev\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.dll
+D:\Dev\TesteNovaSingular\bin\Debug\net5.0\ref\TesteNovaSingular.dll
+D:\Dev\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.pdb
+D:\Dev\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.Views.dll
+D:\Dev\TesteNovaSingular\bin\Debug\net5.0\TesteNovaSingular.Views.pdb
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.AssemblyReference.cache
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.AssemblyInfoInputs.cache
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.AssemblyInfo.cs
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.CoreCompileInputs.cache
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorAssemblyInfo.cache
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorAssemblyInfo.cs
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\staticwebassets\TesteNovaSingular.StaticWebAssets.Manifest.cache
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\staticwebassets\TesteNovaSingular.StaticWebAssets.xml
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\scopedcss\bundle\TesteNovaSingular.styles.css
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.TagHelpers.input.cache
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.TagHelpers.output.cache
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorCoreGenerate.cache
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Banner.cshtml.g.cs
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Galeria.cshtml.g.cs
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Noticias.cshtml.g.cs
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Sobre.cshtml.g.cs
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Footer.cshtml.g.cs
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Header.cshtml.g.cs
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorTargetAssemblyInfo.cache
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.RazorTargetAssemblyInfo.cs
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.Views.pdb
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.dll
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\ref\TesteNovaSingular.dll
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.pdb
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.genruntimeconfig.cache
+D:\Dev\TesteNovaSingular\obj\Debug\net5.0\TesteNovaSingular.csproj.CopyComplete
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\Components\Noticias\Default.cshtml.g.cs
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Shared\Components\Galeria\Default.cshtml.g.cs
+C:\Dev\Nova SIngular\Dev.Pavlos\TesteNovaSingular\obj\Debug\net5.0\Razor\Views\Home\_Contato.cshtml.g.cs

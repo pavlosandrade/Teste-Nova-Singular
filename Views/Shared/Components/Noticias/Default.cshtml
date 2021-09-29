@@ -1,0 +1,30 @@
+﻿@model List<NoticiasViewModel>
+
+<section id="noticias" class="scrollspy container-fluid news pb-5 bg-white">
+    <div class="container container-news">
+        <h1 class="text-center pt-5 text-dark">Notícias</h1>
+        <ul class="control" id="custom-control">
+            <li class="prev">
+                <i class="fa fa-angle-left fa-2x"></i>
+            </li>
+            <li class="next">
+                <i class="fa fa-angle-right fa-2x"></i>
+            </li>
+        </ul>
+        <div class="my-slider align-items-center">
+            @foreach (var item in Model)
+            {
+                <div class="p-5">
+                    <div class="card">
+                        <img class="card-img-top" src="@item.Img" alt="Card image cap">
+                        <div class="card-body">
+                            <h5 class="card-title">@item.Title</h5>
+                            <p class="card-text pb-4 mt-4">@item.Descricao</p>
+                            <a href="#" class="btn-grad">@item.Link</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>

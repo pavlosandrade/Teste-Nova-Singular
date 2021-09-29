@@ -1,0 +1,18 @@
+﻿@model List<GaleriaViewModel>
+
+<section class="scrollspy" id="galeria">
+    <div class="container-fluid container-galeria">
+        <h1 class="text-center fw-bold ">Galeria</h1>
+        <h3 class="text-center fw-normal">Ultimas fotos dos eventos que ocorreram</h3>
+        <div class="row mt-4">
+            @foreach (var item in Model)
+            {
+                <div class="item col-sm-6 col-md-4 mb-3">
+                    <a href="@item.Image" class="fancybox" data-fancybox="gallery1">
+                        <img class="image-galeria" src="@item.Thumb" alt="nasa-space-apps-banner">
+                    </a>
+                </div>
+            }
+        </div>
+    </div>
+</section>
